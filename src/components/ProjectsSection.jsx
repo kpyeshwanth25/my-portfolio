@@ -6,7 +6,7 @@ const projects = [
     title: "Secure Online E-Voting System",
     description:
       "A secure web-based e-voting platform using facial and fingerprint recognition for biometric authentication.",
-    image: "/public/evoting.jpeg",
+    image: "/evoting.jpeg",
     tags: ["React", "Express.js", "Flask", "WebAuthn", "PostgreSQL", "Face Recognition", "Fingerprint Auth"],
     demoUrl: "#",
     githubUrl: "https://github.com/kpyeshwanth25",
@@ -16,7 +16,7 @@ const projects = [
     title: "Plant Disease Analyzer & Predictor",
     description:
       "AI-powered system that analyzes plant symptoms and suggests treatments using rule-based algorithms.",
-    image: "/public/plant.jpeg",
+    image: "/plant.jpeg",
     tags: ["Python", "AI/ML", "Flask", "Rule-Based System", "OpenCV", "Plant Health"],
     demoUrl: "#",
     githubUrl: "https://github.com/kpyeshwanth25",
