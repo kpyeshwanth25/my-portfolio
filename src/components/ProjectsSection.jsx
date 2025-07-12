@@ -9,7 +9,7 @@ const projects = [
     image: "/public/evoting.jpeg",
     tags: ["React", "Express.js", "Flask", "WebAuthn", "PostgreSQL", "Face Recognition", "Fingerprint Auth"],
     demoUrl: "#",
-    githubUrl: "https://github.com/kpyeshwanth/e-voting-system",
+    githubUrl: "https://github.com/kpyeshwanth25",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const projects = [
     image: "/public/plant.jpeg",
     tags: ["Python", "AI/ML", "Flask", "Rule-Based System", "OpenCV", "Plant Health"],
     demoUrl: "#",
-    githubUrl: "https://github.com/kpyeshwanth/plant-disease-predictor",
+    githubUrl: "https://github.com/kpyeshwanth25",
   },
 ];
 
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/kpyeshwanth"
+            href="https://github.com/kpyeshwanth25"
           >
             Check My GitHub <ArrowRight size={16} />
           </a>
