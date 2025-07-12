@@ -1,12 +1,25 @@
-# React + Vite
+Yeshwanth KP - Portfolio
+This is my personal portfolio website built with React (Vite) and Tailwind CSS, showcasing my skills, projects, and professional background. It’s designed to be minimal, modern, and responsive — with subtle animations and a cosmic theme.
+🚀 Live Demo
+👉 https://kpyeshwanth.vercel.app/
+🛠️ Built With
+React + Vite
+Tailwind CSS
+Lucide Icons
+EmailJS for contact form integration
+Framer Motion (for smooth animations)
+Custom Components (Skills filter, star background, floating nav, etc.)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+🌌 Cosmic-themed background with animated stars & meteors
+🧠 Dynamic Skills Section with category filters
+📁 Projects Showcase with GitHub & Demo links
+📬 Contact Form integrated with EmailJS
+🌗 Dark/Light Mode Toggle
+⚡ Responsive for all screen sizes
+💡 Smooth Scroll Navigation
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+About Me
+I'm a passionate and detail-oriented Computer Science undergraduate specializing in AI/ML and full-stack development. I build secure, intelligent digital solutions with a focus on both design and performance.
+📧 kpyeshwanth.inbox@gmail.com
